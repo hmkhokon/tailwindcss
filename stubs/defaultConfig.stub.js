@@ -1,5 +1,5 @@
 module.exports = {
-  content: [],
+  content: [dj],
   presets: [],
   darkMode: 'media', // or 'class'
   theme: {
